@@ -15,7 +15,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: angularhclacr.azurecr.io/angular-app:kapil
+        image: angularhclacr.azurecr.io/angular-app:latest
         ports: 
         - containerPort: 80 
 --- 
