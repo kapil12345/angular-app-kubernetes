@@ -15,7 +15,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: kapilbansal161/angular-app:#{Build.BuildId}#
+        image: kapilbansal161/angular-app:kapil
         ports: 
         - containerPort: 80 
 --- 
